@@ -8,10 +8,10 @@ class ScientificCalculator
         {
             Console.WriteLine("Scientific Calculator");
             Console.WriteLine("Choose an operation:");
-            Console.WriteLine("1. Sine (sin)");
-            Console.WriteLine("2. Cosine (cos)");
-            Console.WriteLine("3. Tangent (tan)");
-            Console.WriteLine("4. Logarithm (log)");
+            Console.WriteLine("1. Sin");
+            Console.WriteLine("2. Cos");
+            Console.WriteLine("3. Tan");
+            Console.WriteLine("4. Log");
             Console.WriteLine("5. Exit");
             
             int choice = int.Parse(Console.ReadLine());
