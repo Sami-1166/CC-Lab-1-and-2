@@ -1,0 +1,16 @@
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\bin\Debug\net8.0-windows\CC Lab 1,2 tasks.exe
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\bin\Debug\net8.0-windows\CC Lab 1,2 tasks.deps.json
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\bin\Debug\net8.0-windows\CC Lab 1,2 tasks.runtimeconfig.json
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\bin\Debug\net8.0-windows\CC Lab 1,2 tasks.dll
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\bin\Debug\net8.0-windows\CC Lab 1,2 tasks.pdb
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\CC_Lab_1_2_tasks.Form1.resources
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\CC Lab 1,2 tasks.csproj.GenerateResource.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\CC Lab 1,2 tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\CC Lab 1,2 tasks.AssemblyInfoInputs.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\CC Lab 1,2 tasks.AssemblyInfo.cs
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\CC Lab 1,2 tasks.csproj.CoreCompileInputs.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\CC Lab 1,2 tasks.dll
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\refint\CC Lab 1,2 tasks.dll
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\CC Lab 1,2 tasks.pdb
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\CC Lab 1,2 tasks.genruntimeconfig.cache
+D:\University Data\7th Semester\Compiler Construction\Lab\source\repos\CC Lab 1,2 tasks\CC Lab 1,2 tasks\obj\Debug\net8.0-windows\ref\CC Lab 1,2 tasks.dll
